@@ -1,0 +1,99 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+header {
+  background-color: black;
+  height: 65px;
+  width: 100%;
+}
+
+div {
+  padding-top: 18px;
+}
+.start {
+  font-size: x-large;
+  color: aliceblue;
+  padding-left: 180px;
+}
+.about {
+  font-size: x-large;
+  color: aliceblue;
+  padding-left: 650px;
+}
+.services {
+  font-size: x-large;
+  color: aliceblue;
+  padding-left: 10px;
+}
+.contact {
+  font-size: x-large;
+  color: aliceblue;
+  padding-left: 10px;
+}
+.section1 {
+  height: 300px;
+  background-color: rgb(28, 180, 251);
+  text-align: center;
+  padding-top: 90px;
+  color: white;
+}
+.welcome {
+  font-size: xx-large;
+  color: aliceblue;
+}
+button {
+  height: 50px;
+  width: 150px;
+  border-radius: 8px;
+}
+.btnstart {
+  font-size: large;
+}
+.aboutthis {
+  font-size: xx-large;
+  margin-left: 400px;
+}
+.divtxt {
+  margin-left: 400px;
+  width: 700px;
+}
+.listtxt {
+  margin-left: 400px;
+}
+.section2 {
+  height: 400px;
+}
+.section3 {
+  height: 400px;
+  background-color: rgb(232, 243, 245);
+}
+.servicessec3 {
+  font-size: xx-large;
+  margin-left: 400px;
+}
+.divlorem {
+  margin-left: 400px;
+  width: 700px;
+}
+.section4 {
+  height: 400px;
+}
+.contactus {
+  font-size: xx-large;
+  margin-left: 400px;
+}
+.divcontact {
+  margin-left: 400px;
+  width: 700px;
+}
+.footer {
+  background-color: black;
+  height: 120px;
+}
+.spanfooter {
+  color: white;
+  padding-left: 43%;
+}
